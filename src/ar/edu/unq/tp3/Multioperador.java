@@ -7,7 +7,7 @@ public class Multioperador {
 	public int[] getNumeros() {
 		return numeros;
 	}
-	
+	 
 	int sumarNumeros() {
 		int sumaHastaAhora = 0;
 		for (int numero:this.getNumeros()) {

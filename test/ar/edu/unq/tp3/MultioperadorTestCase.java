@@ -1,12 +1,11 @@
 package ar.edu.unq.tp3;
-import static org.junit.jupiter.api.Assertions.*;
 import org.junit.Assert;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 class MultioperadorTestCase {
 	
-	Multioperador multiOperador = new Multioperador();
+	Multioperador multiOperador = new Multioperador(); 
 	
 	@Test
 	 void suma() {

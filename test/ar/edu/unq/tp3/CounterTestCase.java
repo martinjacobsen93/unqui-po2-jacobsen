@@ -1,5 +1,4 @@
 package ar.edu.unq.tp3;
-import static org.junit.jupiter.api.Assertions.*;
 import org.junit.Assert;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -20,7 +19,7 @@ class CounterTestCase {
 		counter.addNumber(9);
 		counter.addNumber(1);
 		counter.addNumber(2222);
-		counter.addNumber(506);
+		counter.addNumber(506); 
 		counter.addNumber(141);
 		counter.addNumber(40);
 		}
