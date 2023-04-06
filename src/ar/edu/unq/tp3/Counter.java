@@ -130,7 +130,7 @@ public class Counter {
 	
 	5.4
 	Si se intenta acceder a la variable por fuera del scope de la variable de instancia, se obtendrá un error que indica que dicha variable no fué declarada.
-	*/
+	*/ 
 	
 	
 	
